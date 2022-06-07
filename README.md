@@ -1,5 +1,7 @@
 # Analysis of Education for Children with Disabilities
 
+![This is an image](https://www.borgenmagazine.com/wp-content/uploads/2014/08/special-needs-children-in-developing-countries_opt.jpg)
+
 ## ALTF4
 - Calingasan, Zyrine Joy A. <br>
 - Calderon, Roland A.  <br>
