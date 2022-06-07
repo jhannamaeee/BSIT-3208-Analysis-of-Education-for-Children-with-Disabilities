@@ -40,9 +40,8 @@ The objectives of this study is to identify a good education for children with d
 <a href= "https://sdgs.un.org/goals/goal4">4 Quality Education</a>
 
 ## Recommendation 
-States and localities that decide to implement standards-based reforms should design their common content standards, performance standards, and assessments to maximize participation of students with disabilities.
-
-## Solution 
+- States and localities that decide to implement standards-based reforms should design their common content standards, performance standards, and assessments to maximize participation of students with disabilities.
+- Even if certain students' particular needs need changes to the common standards and tests, the committee strongly advises that these pupils be counted in a universal, public accountability system.
 
 
 ## References
