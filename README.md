@@ -1,6 +1,6 @@
 # Analysis of Education for Children with Disabilities
 
-![This is an image](https://i0.wp.com/world-education-blog.org/wp-content/uploads/2022/02/inlusion-blog.jpg?resize=1024%2C682&ssl=1)
+![This is an image](https://www.borgenmagazine.com/wp-content/uploads/2014/08/special-needs-children-in-developing-countries_opt.jpg)
 
 ## Introduction
 Although significant progress has been made in improving access to school over the last two decades, research recomends that many children with disabilities are still being left behind. Without guaranteeing that children with disabilities and other disadvantaged groups receive a quality education, the world will fall short of achieving Sustainable Development Goal 4: achieving quality education for all.  
