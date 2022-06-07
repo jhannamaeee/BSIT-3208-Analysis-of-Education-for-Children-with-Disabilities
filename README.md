@@ -1,14 +1,5 @@
 # Analysis of Education for Children with Disabilities
 
-![This is an image](https://www.borgenmagazine.com/wp-content/uploads/2014/08/special-needs-children-in-developing-countries_opt.jpg)
-
-## ALTF4
-- Calingasan, Zyrine Joy A. <br>
-- Calderon, Roland A.  <br>
-- Corona, Ashley R.  <br>
-- Mendoza, Jhanna Mae M.  <br>
-- Papasin, Shaira Mae P. <br>
-
 ![This is an image](https://i0.wp.com/world-education-blog.org/wp-content/uploads/2022/02/inlusion-blog.jpg?resize=1024%2C682&ssl=1)
 
 ## Introduction
@@ -64,5 +55,10 @@ Students with disabilities should be included in the pilot samples as new assess
 ## Recorded Presentation
 - https://drive.google.com/file/d/1UX8rKujOiUEe7DHtgXQzqHwPykkbpJdg/view?usp=sharing
 
-## Live Presentation 
+## ALTF4
+- Calingasan, Zyrine Joy A. <br>
+- Calderon, Roland A.  <br>
+- Corona, Ashley R.  <br>
+- Mendoza, Jhanna Mae M.  <br>
+- Papasin, Shaira Mae P. <br>
 
