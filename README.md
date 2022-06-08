@@ -64,5 +64,5 @@ Students with disabilities should be included in the pilot samples as new assess
 - Calderon, Roland A.  <br>
 - Corona, Ashley R.  <br>
 - Mendoza, Jhanna Mae M.  <br>
-- Papasin, Shaira Mae P. <br>
+- Papasin, Shaira Mae A. <br>
 
