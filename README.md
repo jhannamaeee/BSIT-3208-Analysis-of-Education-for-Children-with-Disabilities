@@ -56,6 +56,9 @@ Students with disabilities should be included in the pilot samples as new assess
 ## Recorded Presentation
 - https://drive.google.com/file/d/1UX8rKujOiUEe7DHtgXQzqHwPykkbpJdg/view?usp=sharing
 
+## Live Presentation
+- https://drive.google.com/file/d/1UAaiEky6b288rlU76dE9iD7HtGyYe8QP/view?usp=drivesdk
+
 ## ALTF4
 - Calingasan, Zyrine Joy A. <br>
 - Calderon, Roland A.  <br>
